@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Node and SQL
 - 💞️ I’m looking to collaborate on React
 - 📫 How to reach me: yashchowdhary34@gmail.com
-- ⚡ Working on a Airbnb Clone 
+- ⚡ Working on an Airbnb Clone 
 
 
 
