@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, React, Node, SQL, DSA
 - 🌱 I’m currently learning Node and SQL
 - 💞️ I’m looking to collaborate on React
-- 📫 How to reach me at yashchowdhary34@gmail.com
+- 📫 How to reach me: yashchowdhary34@gmail.com
 - ⚡ Working on a Airbnb Clone 
 
 
