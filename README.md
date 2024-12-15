@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YashChowdhary34
+- 👋 Hi, I’m Yash
 - 👀 I’m interested in Java, React, Node, SQL, DSA
 - 🌱 I’m currently learning Node and SQL
 - 💞️ I’m looking to collaborate on React
