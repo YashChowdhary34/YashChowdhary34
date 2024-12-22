@@ -7,9 +7,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## 🚀 About Me
 
 - 🎓 **Education**: B.Tech in Computer Science from Techno India University, West Bengal.  
-- 🌱 **Currently Learning**: Advanced React, Redux, and backend development with Node.js.  
-- 💡 **Interests**: Problem-solving, data structures, and algorithms.  
+- 🌱 **Currently Learning**: Advanced React, Redux, and backend development with Node.js.
 - 📫 **Contact**: yashchowdhary34@gmail.com  
+
+---
+
+## 🌟 Interests  
+
+- 🧩 **Data Structures & Algorithms**  
+- 📊 **Data Analysis**  
+- 💻 **Full-Stack Development**  
 
 ---
 
@@ -30,9 +37,16 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ---
 
-## 📈 GitHub Stats
+## 🤝 Let's Connect  
 
-![Yash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YashChowdhary34&show_icons=true&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-chowdhary-670b52323/)  
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/yashchowdhary/)
+
+---
+
+## 📈 Contributions  
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YashChowdhary34&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -46,13 +60,6 @@ A web application that utilizes geolocation to help users track their workouts o
 
 ### [Retail Sales Analysis](https://github.com/YashChowdhary34/retail-sales-analysis-SQL)  
 A SQL project designed to demonstrate skills in exploring, cleaning, and analyzing retail sales data to derive business insights.  
-
----
-
-## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/yash-chowdhary-670b52323/)
-- [LeetCode](https://leetcode.com/u/yashchowdhary/)
 
 ---
 
