@@ -1,6 +1,6 @@
 # Hi there, I'm Yash Chowdhary! 👋
 
-Welcome to my GitHub profile! I'm a passionate software developer with a focus on full-stack development, data analysis, and building efficient and scalable applications. As a recent **B.Tech Computer Science** graduate from **Techno India University, West Bengal**, I am actively seeking exciting opportunities in the tech industry.  
+Welcome to my GitHub profile! I'm a passionate software developer with a focus on full-stack development, data analytics, and building efficient and scalable applications. As a recent **B.Tech Computer Science** graduate from **Techno India University, West Bengal**, I am actively seeking exciting opportunities in the tech industry.  
 
 ---
 
