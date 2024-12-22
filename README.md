@@ -14,9 +14,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 
 ## 🌟 Interests  
 
+- 💻 **Full-Stack Development**  
 - 🧩 **Data Structures & Algorithms**  
 - 📊 **Data Analysis**  
-- 💻 **Full-Stack Development**  
 
 ---
 
