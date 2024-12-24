@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a focus o
 ## 🚀 About Me  
 
 - 🎓 **Education**: B.Tech in Computer Science from Techno India University, West Bengal.  
-- 🌱 **Currently Learning**: Advanced React, Redux, and backend development with Node.js.  
+- 🌱 **Currently Learning**: Advanced React, Redux, and backend development with Node.js, Databases
 - 📫 **Contact**: yashchowdhary34@gmail.com  
 
 ---
