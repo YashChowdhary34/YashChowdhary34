@@ -1,7 +1,7 @@
 # Hi there, I'm Yash! 👋  
 
 <div align="center">  
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Data Analysis" width="600" height="300">  
+  <iframe src="https://giphy.com/embed/VHI6svvhu5xuqzyAoM" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/kochstrasse-hannover-agencylife-agenturleben-VHI6svvhu5xuqzyAoM">via GIPHY</a></p> 
 </div>  
 
 Welcome to my GitHub profile!  
