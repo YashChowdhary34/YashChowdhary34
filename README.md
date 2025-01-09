@@ -1,7 +1,7 @@
 # Hi there, I'm Yash! 👋  
 
 <div align="center">  
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTcxNDMzNjQzZTU1NDExNjhlMTRlZjc1YTU5ZTI3MzZmNzgyYTRmOCZlcD12MV9naWZzX2xhcmdl/gGdbf2aU6klvIoFS4L/giphy.gif" alt="Data Analysis" width="600" height="300">  
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Data Analysis" width="600" height="300">  
 </div>  
 
 Welcome to my GitHub profile!  
