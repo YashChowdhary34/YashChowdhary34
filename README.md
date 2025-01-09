@@ -1,9 +1,5 @@
 # Hi there, I'm Yash! 👋  
 
-<div align="center">
-  <img src="https://media.giphy.com/media/h8RDGogSns9wpOJFzR/giphy.gif" alt="Data Analysis" width="300" height="300">
-</div>
-
 Welcome to my GitHub profile!  
 I’m a **data storyteller** passionate about transforming raw data into meaningful insights that drive impactful decisions. With a strong foundation in computer science and a love for creative problem-solving, I bridge the gap between data and actionable strategies. Whether it's building analytical models, visualizing trends, or creating scalable tools, I thrive on making data come alive.  
 
