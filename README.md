@@ -1,8 +1,9 @@
 # Hi there, I'm Yash! 👋  
 
 <div align = 'center'>
-  <img src = 'https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e' width = 300 height = 130>
+  <img src = 'https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e' width = 300 height = 130 />
 </div>
+
 Welcome to my GitHub profile!  
 I’m a **data storyteller** passionate about transforming raw data into meaningful insights that drive impactful decisions. With a strong foundation in computer science and a love for creative problem-solving, I bridge the gap between data and actionable strategies. Whether it's building analytical models, visualizing trends, or creating scalable tools, I thrive on making data come alive.  
 
