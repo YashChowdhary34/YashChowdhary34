@@ -1,7 +1,7 @@
 # Hi there, I'm Yash! 👋  
 
 <div align = 'center'>
-  <img src = 'https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e' width = 300 height = 130 />
+  <img src = 'https://github.com/user-attachments/assets/68cc2958-9790-47a1-a89e-e763f352e685' width = 600 height = 150 />
 </div>
 
 Welcome to my GitHub profile!  
